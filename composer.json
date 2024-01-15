@@ -1,5 +1,5 @@
 {
-    "name": "experius/module-wysiwygdownloads",
+    "name": "genius-dev/module-wysiwygdownloads",
     "description": "This module makes it possible to upload different filetypes inside the WYSIWYG-editor (Media Gallery). Extra filetypes are Word (doc, docm, docx, odt), Excel (csv, xml, xls, xlsx, ods), PDF (pdf), Compressed Folder (zip, tar)",
     "type": "magento2-module",
     "license": "OSL-3.0",
